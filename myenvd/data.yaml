@@ -1,0 +1,5 @@
+train: /Users/didaryilmaz/Downloads/dataset/Training/images
+val: /Users/didaryilmaz/Downloads/dataset/Validation/images
+
+nc: 1  # Nesne sayısı (sınıf sayısı)
+names: ['smoke']  # Sınıf isimleri

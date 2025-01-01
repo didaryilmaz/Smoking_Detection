@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "Smoking_Detection",
+			"path": "../../Smoking_Detection"
+		},
+		{
+			"name": "myenvd",
+			"path": "."
+		},
+		{
+			"name": "Smooking Detection.v4i.yolov8",
+			"path": "../../../../Downloads/Smooking Detection.v4i.yolov8"
+		}
+	],
+	"settings": {}
+}
